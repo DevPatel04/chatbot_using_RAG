@@ -12,3 +12,4 @@ rapidocr-onnxruntime
 langchain_chroma 
 chromadb 
 langchain_groq
+langchain_chroma
