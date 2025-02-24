@@ -1,3 +1,7 @@
+
+import sqlite3
+print("SQLite version:", sqlite3.sqlite_version)
+
 from langchain_community.document_loaders import PyPDFLoader, TextLoader, Docx2txtLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain_google_genai import GoogleGenerativeAIEmbeddings
@@ -12,8 +16,6 @@ import logging
 import chromadb
 
 logging.basicConfig(level=logging.INFO)
-import sqlite3
-print("SQLite version:", sqlite3.sqlite_version)
 
 
 
