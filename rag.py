@@ -12,7 +12,8 @@ import logging
 import chromadb
 
 logging.basicConfig(level=logging.INFO)
-
+import sqlite3
+print("SQLite version:", sqlite3.sqlite_version)
 
 
 
