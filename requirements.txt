@@ -1,3 +1,4 @@
+pysqlite3-binary
 langchain
 langchain_community
 langchain-google-genai
@@ -13,4 +14,3 @@ langchain_chroma
 chromadb 
 langchain_groq
 langchain_chroma
-pysqlite3-binary
