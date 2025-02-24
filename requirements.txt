@@ -1,5 +1,4 @@
-pip==25.0.1
-pysqlite3==3.35.0
+pysqlite3
 langchain
 langchain_community
 langchain-google-genai
