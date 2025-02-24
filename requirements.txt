@@ -13,3 +13,4 @@ langchain_chroma
 chromadb 
 langchain_groq
 langchain_chroma
+pysqlite3-binary
